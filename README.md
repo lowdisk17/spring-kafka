@@ -1,3 +1,4 @@
+# spring-kafka
 A simple project to kickstart your spring boot and kafka journey
 
 Note: In testing run the application by using any idea of your choice (example VSCode), 
